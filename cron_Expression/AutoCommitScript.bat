@@ -1,12 +1,12 @@
 #!/bin/bash
 
-cd C:\Users\Lenovo\Documents\GitHub\Todo_List_Manager 
+cd C:\Users\Lenovo\Documents\GitHub\Cron_Expression\cron_Expression
 
 # Add your files to the repository
 git add .
 
 # Commit the changes
-git commit -m "Remove Bugs from the code and test for 6th scenario (Todo Deletion) " --allow-empty
+git commit -m "initilaize the project " --allow-empty
 
 # Push the changes to GitHub
 git push
